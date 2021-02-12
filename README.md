@@ -11,8 +11,12 @@ We host the datasets we used in the paper on the Kaggle platform.
 # Algorithms
 In order to allow the reviewers to run all the algorithms and experiments that are described in the paper, we decided to present the code in the form of notebooks.
 This configuration has several advantages.
-Since GPU use is required (or at the very least, highly recommended) and we do not want to make assumptions about the hardware environment of the reviewers, notebooks can be used on the free Google Collab or Kaggle platforms.
+
+Since GPU use is required (or at the very least, highly recommended) and we do not want to make assumptions about the hardware environment of the reviewers, 
+notebooks can be used on the free Google Collab or Kaggle platforms.
+
 In this way, the dependencies problem is also solved, and there is no need for the reviewers to adapt their work environment, create a new environment, or use tools like a Docker, in order to run the algorithms and experiments.
+
 Also, even if the reviewers have a server with a GPU, it can be run remotely using an IDE like VSCode.
 
 # Experimental Setup
