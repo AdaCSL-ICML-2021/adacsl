@@ -29,4 +29,4 @@ We use a Stochastic Gradient Descent as the optimizer.
 
 The learning rate is 0.01 in most experiments, except when we saw that significant overfitting or underfitting occurred under the maximum number of epochs. In these cases, we modify the learning rate to 0.001 or 0.1.
 
-Weight decay is 0.05, 0.01, or 0.01.
+Weight decay is 0.01, 0.05, or 0.1.
