@@ -23,6 +23,6 @@ The batch size in the training phase is 64.
 The maximum number of epochs ranges from 15 to 20 when selecting the test phase model is done as explained in the paper.
 We use a Stochastic Gradient Descent as the optimizer.
 
-The learning rate was 0.01 in most experiments, except when we saw that significant overfitting or underfitting occurred under the maximum number of epochs. In these cases, we modify the learning rate to 0.001 or 0.1.
+The learning rate is 0.01 in most experiments, except when we saw that significant overfitting or underfitting occurred under the maximum number of epochs. In these cases, we modify the learning rate to 0.001 or 0.1.
 
-Weight decay was 0.05, 0.01, 0.01.
+Weight decay is 0.05, 0.01, or 0.01.
