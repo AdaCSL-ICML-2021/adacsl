@@ -13,7 +13,7 @@ In order to allow the reviewers to run all the algorithms and experiments that a
 This configuration has several advantages.
 
 Since GPU use is required (or at the very least, highly recommended) and we do not want to make assumptions about the hardware environment of the reviewers, 
-notebooks can be used on the free Google Collab or Kaggle platforms.
+notebooks can be used on the free Google Colab or Kaggle platforms.
 
 In this way, the dependencies problem is also solved, and there is no need for the reviewers to adapt their work environment, create a new environment, or use tools like a Docker, in order to run the algorithms and experiments.
 
