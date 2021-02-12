@@ -20,7 +20,7 @@ In this way, the dependencies problem is also solved, and there is no need for t
 Also, even if the reviewers have a server with a GPU, it can be run remotely using an IDE like VSCode.
 
 # Experimental Setup
-In all experiments, we used pre-trained ResNet18, as implemented in PyTorch.
+In all experiments, we use pre-trained ResNet18, as implemented in PyTorch.
 
 The batch size in the training phase is 64.
 
